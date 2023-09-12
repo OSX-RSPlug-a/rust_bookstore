@@ -1,0 +1,29 @@
+version: '3.2'
+
+services:
+  postgres:
+    image: postgres:latest
+    environment:
+      POSTGRES_PASSWORD: "URKEYPASS"
+    ports:
+      - "15432:5432"
+    volumes:
+      - /URPATH/PostgreSQL:/var/lib/postgresql/data
+    networks:
+      - postgres-network
+
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    environment:
+      PGADMIN_DEFAULT_EMAIL: "URMAIl@MAIL.com"
+      PGADMIN_DEFAULT_PASSWORD: "URKEYPASS"
+    ports:
+      - "16543:80"
+    depends_on:
+      - postgres
+    networks:
+      - postgres-network
+
+networks:
+  postgres-network:
+    driver: bridge

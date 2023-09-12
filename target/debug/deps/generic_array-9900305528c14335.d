@@ -1,0 +1,11 @@
+/home/kagura/Projects/rust_bookstore/target/debug/deps/generic_array-9900305528c14335.rmeta: /home/kagura/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.12.4/src/lib.rs /home/kagura/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.12.4/src/hex.rs /home/kagura/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.12.4/src/impls.rs /home/kagura/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.12.4/src/arr.rs /home/kagura/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.12.4/src/functional.rs /home/kagura/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.12.4/src/iter.rs /home/kagura/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.12.4/src/sequence.rs
+
+/home/kagura/Projects/rust_bookstore/target/debug/deps/generic_array-9900305528c14335.d: /home/kagura/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.12.4/src/lib.rs /home/kagura/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.12.4/src/hex.rs /home/kagura/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.12.4/src/impls.rs /home/kagura/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.12.4/src/arr.rs /home/kagura/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.12.4/src/functional.rs /home/kagura/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.12.4/src/iter.rs /home/kagura/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.12.4/src/sequence.rs
+
+/home/kagura/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.12.4/src/lib.rs:
+/home/kagura/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.12.4/src/hex.rs:
+/home/kagura/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.12.4/src/impls.rs:
+/home/kagura/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.12.4/src/arr.rs:
+/home/kagura/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.12.4/src/functional.rs:
+/home/kagura/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.12.4/src/iter.rs:
+/home/kagura/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.12.4/src/sequence.rs:
